@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **willkroboth/willkroboth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔭 I’m currently working on ...
+[ConfigCommand](https://github.com/willkroboth/ConfigCommands), a spigot plugin for building custom commands on your Minecraft server, fully in-game. Checkout the respository for details!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willkroboth)](https://github.com/anuraghazra/github-readme-stats)
