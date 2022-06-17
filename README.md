@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [ConfigCommand](https://github.com/willkroboth/ConfigCommands), a spigot plugin for building custom commands on your Minecraft server, fully in-game. Checkout the respository for details!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willkroboth)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willkroboth)](https://github.com/anuraghazra/github-readme-stats)
